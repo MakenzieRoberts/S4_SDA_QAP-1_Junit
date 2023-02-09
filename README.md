@@ -1,4 +1,4 @@
-# Semester 4 | Software Design & Architecture | QAP 2
+# Semester 4 | Software Design, Architecture, Testing | QAP 2
  
  This assignment builds on the objectives from *Advanced Programming (Java) QAP 1*. 
  
