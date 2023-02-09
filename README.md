@@ -2,7 +2,7 @@
  
  This assignment builds on the objectives from *Advanced Programming (Java) QAP 1*. 
  
- [**Click here to view that repository**](https://github.com/MakenzieRoberts/S4_Java_QAP1)
+ [**Click here to view that repository.**](https://github.com/MakenzieRoberts/S4_Java_QAP1)
  
 ## Simple Junit Testing
 
